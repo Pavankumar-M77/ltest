@@ -1,1 +1,5 @@
+hello bro <<<<<<< HEAD
 yes bro
+=======
+hello
+>>>>>>> b1
